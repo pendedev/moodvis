@@ -14,7 +14,7 @@ Falls du einen Fehler entdeckst oder eine Idee hast:
 
 ---
 
-### 📜 Release History (Changelog)
+### 📜 Changelog
 
 #### [v0.5.0]
 * Pulsiereffekt des Eingabefelds "Config Datenpunkt" entfernt sobald es nicht leer ist
