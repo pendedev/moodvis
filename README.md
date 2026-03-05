@@ -16,6 +16,32 @@ Falls du einen Fehler entdeckst oder eine Idee hast:
 
 ### 📜 Changelog
 
+#### [v0.5.6]
+* Objektbrowser springt direkt zum ausgewählten Datenpunkt falls schon einer
+vorhanden war.
+* Im Objekt Chart und das Widget Säule können beliebige Verlaufsinstanzen
+angegeben werden.
+* Objekt Füllstand hat jetzt einen State Datenpunkt, um ein und auszuschalten
+und einen Level Datenpunkt zur Füllstandsanzeige. Min/Max und Einheit sind
+jetzt auch frei wählbar. Bei Level Änderungen wird die Tendenz mit Pfeil
+hoch/runter in der Kachel angezeigt.
+* Einstellung „Schalten deaktivieren“ ist jetzt besser sichtbar direkt im
+Bearbeiten Fenster des Objekts/Widgets platziert.
+* Objekt Chart kann die Skalierung für Min/Max jetzt pro Diagramm festgelegt
+werden. Bleibt das Feld leer wird weiterhin automatisch skaliert.
+* Widget Text und Wert können mit der Option „Schalten aktivieren/deaktivieren
+auch Werte in den Datenpunkt schreiben.
+* Schaltbare Objekte und Widgets können mit der Option „Eigene Schaltwerte“
+jetzt auch selbst definierte Werte für Wahr/falsch senden.
+* Bei Objekten die Offline sind wird der Statuswert „Offline“ angezeigt.
+* Linienbreite im Objekt Chart reduziert.
+* Objekte Raum und Ebene können mit der Option „Zählen wenn aktiv“ Objekte
+zählen, die gerade auf einer Unterseite des Objekts aktiv sind.
+* Objekte HTML und iframe (Website) hinzugefügt.
+* Aktive Hintergrundfarbe vom Objekt Chart reduziert, um Diagramm
+Sichtbarkeit zu verbessern
+* Allgemeine UI-Verbesserungen und Textanpassungen
+
 #### [v0.5.0]
 * Pulsiereffekt des Eingabefelds "Config Datenpunkt" entfernt sobald es nicht leer ist
 * Objekte Raum und Ebene ändern jetzt ihren Status und bleiben nicht dauerhaft inaktiv/aktiv sobald ein Datenpunkt hinterlegt ist
