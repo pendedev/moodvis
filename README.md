@@ -16,6 +16,13 @@ Falls du einen Fehler entdeckst oder eine Idee hast:
 
 ### 📜 Changelog
 
+#### [v0.6.0]
+* Objektbrowser zeigt bei Ordnern jetzt den Namen und ID an
+* Bei Chartobjekt ist Diagramm 1 optional jetzt auch als Liniendiagramm einstellbar
+* Für Diagramm 1 bis 3 vom Chartobjekt kann jetzt jeweils eine eigene Farbe ausgewählt werden
+* Größeneinstellung für Kacheln und Widgets in den Optionen geändert und in Kategorie Format umbenannt
+* Widget Schalter zum Test jetzt auch auf dem Dashboard wählbar (Weitere Widgets folgen)
+
 #### [v0.5.6]
 * Objektbrowser springt direkt zum ausgewählten Datenpunkt falls schon einer
 vorhanden war.
