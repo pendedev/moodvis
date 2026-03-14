@@ -16,6 +16,10 @@ Falls du einen Fehler entdeckst oder eine Idee hast:
 
 ### 📜 Changelog
 
+#### [v0.6.1]
+* Bug der mehrfach vorkommenden Farbauswahlbutton im Chartobjekt behoben
+* Bug des fehlerhaft dargestellten Objekt erstellen Fenster für Objekt Chart und Info wurde behoben
+  
 #### [v0.6.0]
 * Objektbrowser zeigt bei Ordnern jetzt den Namen und ID an
 * Bei Chartobjekt ist Diagramm 1 optional jetzt auch als Liniendiagramm einstellbar
